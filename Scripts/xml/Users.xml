@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<USERS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <FName>UserX</FName>
+  <Email>user@gmail.com</Email>
+  <Address>Address1</Address>
+  <Birthday>Birthday</Birthday>
+  <Password>user123</Password>
+  <Phone>375291234567</Phone>
+  <IdRole>375291234567</IdRole>
+</Users>
